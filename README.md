@@ -74,17 +74,15 @@ Two pricing models are implemented:
 
 ## 📁 Project Structure
 
-├── model1_notebook.ipynb # Implementation of Model 1
+├── CA M1.ipynb # Implementation of Model 1
 
-├── model2_notebook.ipynb # Implementation of Model 2
+├── CA M2.ipynb # Implementation of Model 2
 
 ├── dataset.csv # Input dataset
 
 ├── model1_prices.csv # Model 1 output
 
 ├── model2_prices.csv # Model 2 output
-
-├── visualizations/ # Real-time Bokeh plots
 
 ├── Dynamic_Pricing_Report.pdf # Final project report
 
