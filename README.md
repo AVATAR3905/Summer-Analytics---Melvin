@@ -82,10 +82,6 @@ Two pricing models are implemented:
 
 ├── Problem Statment # PS
 
-├── model1_prices.csv # Model 1 output
-
-├── model2_prices.csv # Model 2 output
-
 ├── Dynamic_Pricing_Report.pdf # Final project report
 
 └── README.md # You're here!
