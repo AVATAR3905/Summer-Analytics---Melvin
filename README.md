@@ -80,6 +80,8 @@ Two pricing models are implemented:
 
 ├── dataset.csv # Input dataset
 
+├── Problem Statment # PS
+
 ├── model1_prices.csv # Model 1 output
 
 ├── model2_prices.csv # Model 2 output
